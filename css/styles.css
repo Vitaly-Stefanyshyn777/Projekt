@@ -1,0 +1,65 @@
+
+.body {
+    font-family: Roboto, Arial, sans-serif;
+    color: #434455;
+    font-size: 14px;
+    line-height: 1.5;
+}
+.page-header {
+background-color:#fff;;
+}
+.page-section h1 {
+    background-color: #2e2f42;
+  
+}
+.ghhh {
+    font-weight: 700;
+font-size: 56px;
+line-height: 1.07143;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+font-family: "Roboto", sans-serif
+}
+.site-nav a {
+    font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.site-nav a :hover {
+color: red;
+}
+
+.feature-list h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.title {
+    font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+
+.title-smaller {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: center;
+color: #434455;
+}
+.contacts-Link{
+    font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
